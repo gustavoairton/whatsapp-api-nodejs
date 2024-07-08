@@ -19,7 +19,7 @@
         }
     },
     "engines": {
-        "node": "21.x",
+        "node": "21.x"
     },
     "lint-staged": {
         "*.{js,jsx}": [
